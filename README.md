@@ -1,5 +1,11 @@
 ### Hi there 👋, I'm [Aditya][website]
 
+###
+![profile count](https://komarev.com/ghpvc/?username=aditya-shirke&color=red)&nbsp;
+[![GitHub B H S Naga Sai](https://img.shields.io/github/followers/aditya-shirke?label=follow&style=social)](https://github.com/aditya-shirke)&nbsp;
+![build: passing](https://img.shields.io/badge/build-passing-success)
+###
+
 - 🔭 I’m currently working on my thesis at Uppsala University, Sweden.
 - 🌱 I’m currently learning Machine Learning, Swift.
 - 👯 I’m looking to collaborate on open source projects.
