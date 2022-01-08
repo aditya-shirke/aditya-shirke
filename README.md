@@ -11,15 +11,17 @@
 - 👯 I’m looking to collaborate on open source projects.
 
 ## 📫 How to reach me: 
+
 [<img alt="mail" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mail-dot-ru.svg"/>][mail]
 [<img alt="linkedin" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg"/>][linkedin]
 [<img alt="instagram" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/instagram.svg"/>][instagram]
+  
   
 
 
 <br />
 
-### Languages and tools
+### 🛠️ Languages and tools
 
 <img alt="python" align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/python.svg"/>
 <img alt="java" align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/java.svg"/>
