@@ -6,8 +6,7 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ###
 
-- 🔭 I’m currently working on my thesis at Uppsala University, Sweden.
-- 🌱 I’m currently learning Machine Learning, Swift.
+- 🔭 I’m currently working at Spotify.
 - 👯 I’m looking to collaborate on open source projects.
 
 ## 📫 How to reach me: 
